@@ -47,7 +47,3 @@ pip3.13 install -r requirements.txt
 ```
 
 
-
-## Solving
-
-You need to implement `train.py`.
