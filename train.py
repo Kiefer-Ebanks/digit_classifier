@@ -7,7 +7,7 @@ from torch.utils.data import DataLoader
 
 
 class BasicFeedForward(nn.Module):
-    pass
+
 
 
 if __name__ == "__main__":
